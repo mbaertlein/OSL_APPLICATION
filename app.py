@@ -1,3 +1,8 @@
+# Author: Mitchell Howard Baertlein
+# Email: baertlem@onid.oregonstate.edu
+# Alternate Email: mitch.h.baertlein@gmail.com
+# School: Oregon State University
+
 import os
 import sys
 from random import randint
